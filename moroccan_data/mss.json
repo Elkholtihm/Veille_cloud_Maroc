@@ -1,0 +1,54 @@
+{
+    "data_summary": [
+      {
+        "indicator": "CNSS Data Breach",
+        "value": "Sensitive personal data leaked",
+        "period": "April 2025",
+        "sector": "Social Security",
+        "description": "Hackers breached CNSS systems, exposing personal and financial data of millions of Moroccan workers.",
+        "source": "AP News",
+        "source_link": "https://apnews.com/article/753ce01484ceb8d1ec02459910285235",
+        "trusted_level": "Trusted",
+        "proof": "AP News is a reputable global news organization."
+      },
+      {
+        "indicator": "Cybersecurity Market Growth",
+        "value": "9.51% CAGR",
+        "period": "2024-2029",
+        "sector": "Cybersecurity",
+        "description": "Projected growth rate for Morocco's cybersecurity market, indicating increasing demand for security solutions.",
+        "source": "Mordor Intelligence",
+        "source_link": "https://www.mordorintelligence.com/industry-reports/morocco-cybersecurity-market",
+        "trusted_level": "Trusted",
+        "proof": "Mordor Intelligence is a well-known market research firm."
+      },
+      {
+        "indicator": "Managed Security Services Adoption",
+        "value": "Increased adoption",
+        "period": "2024-2029",
+        "sector": "Managed Security Services",
+        "description": "Rising trend of organizations adopting managed security services to protect against cyber threats.",
+        "source": "MarkNtel Advisors",
+        "source_link": "https://www.marknteladvisors.com/press-release/morocco-managed-security-services-market-growth.html",
+        "trusted_level": "Trusted",
+        "proof": "MarkNtel Advisors is a recognized market research and consulting firm."
+      },
+      {
+        "indicator": "SME Cyber Risk Exposure",
+        "value": "40% exposure",
+        "period": "2023",
+        "sector": "Small and Medium Enterprises",
+        "description": "Percentage of Moroccan SMEs considering themselves vulnerable to cyber threats.",
+        "source": "Kaspersky",
+        "source_link": "https://www.assahifa.com/english/morocco/kaspersky-nearly-40-of-moroccan-smes-exposed-to-cyber-risks/",
+        "trusted_level": "Trusted",
+        "proof": "Kaspersky is a leading global cybersecurity company."
+      }
+    ],
+    "acronyms": {
+      "MSS": "Managed Security Services",
+      "CERT": "Computer Emergency Response Team",
+      "CAGR": "Compound Annual Growth Rate"
+    }
+  }
+  

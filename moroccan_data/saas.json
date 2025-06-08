@@ -1,0 +1,44 @@
+{
+    "data_summary": [
+      {
+        "indicator": "ERP Market Growth",
+        "value": "Steady growth",
+        "period": "2025-2031",
+        "sector": "Enterprise Resource Planning (ERP)",
+        "description": "Businesses are increasingly migrating to cloud-based ERP solutions for enhanced scalability and efficiency.",
+        "source": "6Wresearch",
+        "source_link": "https://www.6wresearch.com/industry-report/morocco-cloud-erp-market",
+        "trusted_level": "Trusted",
+        "proof": "6Wresearch is a reputable market research firm providing detailed industry reports and insights."
+      },
+      {
+        "indicator": "CRM Market Revenue",
+        "value": "€43.27 million",
+        "period": "2024",
+        "sector": "Customer Relationship Management (CRM)",
+        "description": "Projected revenue for the CRM software market in Morocco, indicating significant demand.",
+        "source": "Statista",
+        "source_link": "https://es.statista.com/outlook/tmo/software/enterprise-software/customer-relationship-management-software/morocco",
+        "trusted_level": "Trusted",
+        "proof": "Statista is a leading provider of market and consumer data, widely used by professionals."
+      },
+      {
+        "indicator": "SaaS Market Growth",
+        "value": "15.9% CAGR",
+        "period": "2021-2026",
+        "sector": "Software as a Service (SaaS)",
+        "description": "Projected growth rate for the SaaS market within the public cloud sector in Morocco.",
+        "source": "Statista",
+        "source_link": "https://es.statista.com/outlook/tmo/public-cloud/software-as-a-service/morocco",
+        "trusted_level": "Trusted",
+        "proof": "Statista is a reputable source for market data and statistics."
+      }
+    ],
+    "acronyms": {
+      "SaaS": "Software as a Service",
+      "ERP": "Enterprise Resource Planning",
+      "CRM": "Customer Relationship Management",
+      "CAGR": "Compound Annual Growth Rate"
+    }
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "data_summary": [
+      {
+        "indicator": "AI Training Datasets Market Growth",
+        "value": "28.8% CAGR",
+        "period": "2023-2032",
+        "sector": "Artificial Intelligence (AI)",
+        "description": "The Morocco AI Training Datasets Market is projected to grow from USD 2.34 million in 2023 to USD 21.58 million by 2032, indicating a significant increase in demand for AI training datasets.",
+        "source": "Credence Research",
+        "source_link": "https://www.credenceresearch.com/report/morocco-ai-training-datasets-market",
+        "trusted_level": "Trusted",
+        "proof": "Credence Research is a reputable market research firm providing detailed industry reports and insights."
+      },
+      {
+        "indicator": "AI Adoption Rate in Morocco",
+        "value": "16%",
+        "period": "2025",
+        "sector": "Artificial Intelligence (AI)",
+        "description": "Morocco is projected to achieve a 16% AI adoption rate by the end of 2025, reflecting a rapid embrace of AI technologies.",
+        "source": "All About AI",
+        "source_link": "https://en.hespress.com/108089-morocco-ranks-42nd-globally-in-ai-adoption-shows-fastest-growth-rate.html",
+        "trusted_level": "Trusted",
+        "proof": "All About AI is a platform providing insights and reports on AI adoption trends globally."
+      },
+      {
+        "indicator": "AI Training Dataset Market in Healthcare",
+        "value": "Expected Growth",
+        "period": "2025-2031",
+        "sector": "Artificial Intelligence (AI)",
+        "description": "The AI training dataset market in healthcare in Morocco is expected to grow during 2025-2031, driven by advancements in medical imaging and electronic health records.",
+        "source": "6Wresearch",
+        "source_link": "https://www.6wresearch.com/industry-report/morocco-ai-training-dataset-in-healthcare-market",
+        "trusted_level": "Trusted",
+        "proof": "6Wresearch is a global market research and consulting firm known for its detailed industry reports."
+      }
+    ],
+    "acronyms": {
+      "AI": "Artificial Intelligence",
+      "CAGR": "Compound Annual Growth Rate"
+    }
+  }
+  

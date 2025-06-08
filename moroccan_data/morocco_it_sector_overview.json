@@ -1,0 +1,42 @@
+{
+    "overview": {
+        "total_it_companies": 3178,
+        "source": {
+            "name": "Kompass Maroc",
+            "url": "https://ma.kompass.com/s/informatique-internet-r-d/12/?utm_source=chatgpt.com",
+            "trusted_level": "High"
+        }
+    },
+    "new_it_companies_2024": {
+        "total_new_companies": 95256,
+        "tic_sector_percentage": 2.79,
+        "new_it_companies_estimate": 2659,
+        "source": {
+            "name": "Challenge.ma",
+            "url": "https://www.challenge.ma/maroc-95-256-entreprises-creees-en-2024-297690/?utm_source=chatgpt.com",
+            "trusted_level": "High"
+        }
+    },
+    "regional_distribution": {
+        "casablanca_settat": "65%",
+        "rabat_sale_kenitra": "20%",
+        "others": "15%",
+        "source": {
+            "name": "Aujourd'hui Le Maroc",
+            "url": "https://aujourdhui.ma/economie/ntic-un-secteur-qui-croit-bien-25196?utm_source=chatgpt.com",
+            "trusted_level": "Medium-High"
+        }
+    },
+    "market_size_2023": {
+        "total_market": "8 billion MAD",
+        "hardware": "4 billion MAD",
+        "software": "2 billion MAD",
+        "services": "2 billion MAD",
+        "source": {
+            "name": "LinkedIn Insights",
+            "url": "https://fr.linkedin.com/pulse/le-march%C3%A9-de-linformatique-au-maroc-%C3%A9tat-actuel-et-perspectives-vnm1f?utm_source=chatgpt.com",
+            "trusted_level": "Medium"
+        }
+    },
+    "conclusion": "The IT sector in Morocco is growing, particularly in Casablanca-Settat and Rabat-Salé-Kénitra, with strong demand for digital services such as cloud, AI, and cybersecurity."
+}

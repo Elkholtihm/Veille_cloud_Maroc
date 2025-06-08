@@ -1,0 +1,29 @@
+{
+  "data_summary": [
+    {
+      "indicator": "ICT Market Growth in Morocco",
+      "value": "6.21% CAGR",
+      "period": "2024-2029",
+      "sector": "Information and Communication Technology (ICT)",
+      "description": "Driven by digital transformation initiatives in banking, healthcare, and government sectors.",
+      "source": "Mordor Intelligence",
+      "source_link": "https://www.mordorintelligence.com/industry-reports/morocco-ict-market",
+      "trusted_level": "Trusted",
+      "proof": "Mordor Intelligence is a professional market research firm, providing data for business and investment analyses.",
+      "CAGR_meaning": "CAGR stands for Compound Annual Growth Rate, a measure of the mean annual growth rate of an investment or market over a period of time, expressed as a percentage.",
+      "ICT_meaning": "ICT stands for Information and Communication Technology, which refers to all technologies used to handle telecommunications, broadcast media, audio-visual processing and transmission systems, intelligent building management systems, and network-based control and monitoring functions."
+    },
+    {
+      "indicator": "Enterprise Infrastructure Market Growth in Morocco",
+      "value": "5.3% CAGR",
+      "period": "2023-2027",
+      "sector": "Enterprise Infrastructure (Servers and External Storage)",
+      "description": "Growth reflects the increasing need for scalable IT solutions, including IaaS, to support digitalization.",
+      "source": "IDC (International Data Corporation)",
+      "source_link": "https://www.idc.com/getdoc.jsp?containerId=prMETA51568023",
+      "trusted_level": "Highly Trusted",
+      "proof": "IDC is one of the world's top IT and enterprise market research companies, highly cited across industries.",
+      "IDC_meaning": "IDC stands for International Data Corporation, a global leader in providing market intelligence, advisory services, and events in the IT, telecommunications, and consumer technology markets."
+    }
+  ]
+}
